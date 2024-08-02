@@ -1,0 +1,51 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "NewsMonkey(React.js)",
+      "description": "Get the latest news and updates from around the world with our sleek, user-friendly interface. Stay informed with breaking news, trending stories, and more across various categories.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Food-Delivery(MERN-STACK)",
+      "description": "Explore an extensive selection of products and food categories with our app. Enjoy the convenience of placing orders anytime, 24/7,have your favorite meals delivered right to your door.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Web-Page(HTML,CSS&Js)",
+      "description": "Find all you need to know about our company, including detailed service information, our history, and contact details. This  offers a complete overview to connect with us and explore more",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "src": "./img/presidency-university.jpg",
+      "title": "Presidency-University",
+      "description": "Computer Science Engineering",
+      "Duration": "2020-2024",
+      "Address": "Itgalpur Rajanakunte, Yelahanka, Bengaluru, Karnataka 560064"
+    },
+    {
+      "id": "2",
+      "src": "./img/poorna-pu-college.jpg",
+      "title": "Poorna Pu College",
+      "description": "PCMC's",
+      "Duration": "2018-2020",
+      "Address": "Kelgeri,Kusum Nagar,Narayanpura, Dharwad, Karnataka 580007"
+    },
+    {
+      "id": "3",
+      "src": "./img/st-theresa-school.avif",
+      "title": "ST.Theresa School",
+      "description": "CBSC-10th",
+      "Duration": "2017-2018",
+      "Address": "Dist-Belgavi, Tq-Hukkeri, Hidkal, Chilbhavi, Karnataka 591107"
+    }
+  ]
+}
